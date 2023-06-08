@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin-bottom:64px;
+}
+body{
+    background-color: rgb(245, 233, 212);
+    text-align: center;
+    margin: 20px;
+    
+}
+
+#main {
+    text-align: center;
+    padding: 10px ;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: 'Oswald',sans-serif;
+
+
+}
+.par {
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 40px;
+    font-family: 'Oswald',sans-serif;
+    color: rgb(71, 62, 62);
+}
+li{
+    list-style: none;
+    margin: 32px ;
+    background-color: rgb(223,136,124);
+    border-radius: 4px;
+    padding: 16px;
+    box-shadow: 1px 2px 4px rgb(0, 0, 0, 0.2);
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(182, 79, 127);
+    border:  1px solid rgb(223,136,124); ;
+    border-radius: 4px;
+    font-size: 24px;
+    padding: 12px 48px;
+    display: inline-block;
+    margin: 0;
+}
+a:hover{
+    text-decoration: none;
+    background-color: rgb(180, 12, 90);
+}
+ol {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+
+
+}
+p {
+    font-family: 'Fira Sans', sans-serif;
+    margin: 16px;
+
+}
+
+#description {
+    margin:12px;
+   
+}
+
+h2{
+    color: rgb(78, 13, 5);
+    font-family: 'Oswald',sans-serif;
+
+}
+ main p {
+    margin :12px;
+    color:rgb(71, 29, 22);
+
+ }
+.highlight-goal {
+    background-color: rgb(219, 111, 96);
+}
